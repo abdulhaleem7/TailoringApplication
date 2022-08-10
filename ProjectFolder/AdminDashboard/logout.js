@@ -1,0 +1,3 @@
+let logout=()=>{
+    localStorage.clear();
+}

@@ -1,0 +1,52 @@
+#edit1{
+    height: 450px;
+    width: 400px;
+}
+
+#test1{
+    display: flex;
+    flex-direction:row;
+     flex-wrap: wrap;
+     gap: 15px;
+}
+#test2{
+    display: flex;
+    flex-direction:row;
+     flex-wrap: wrap;
+     gap: 15px;
+}
+
+#edit4{
+    height: 500px;
+    width: 400px;
+}
+#edit5{
+    margin-top: 10px;
+}
+#test3{
+    display: flex;
+    flex-direction:row;
+     flex-wrap: wrap;
+     gap: 15px;
+}
+#test7{
+    height: 330px;
+    width: 350px;
+    display: flex;
+    flex-direction:row;
+     flex-wrap: wrap;
+     gap: 15px;
+}
+#test8{
+    width: 750px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+     gap: 15px;
+}
+
+#editimage{
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+}
